@@ -1,6 +1,9 @@
 True Type Fonts: DIGITAL-7 version 1.02
 
 
+--NECESSARIO BAIXAR AS BLIBLIOTECAS PARA RODAR O PROGRAMA---
+
+
 EULA
 -==-
 The fonts Digital-7 is freeware for home using.
